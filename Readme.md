@@ -1,0 +1,1 @@
+Olá! meu nome é Emanuel, este projeto é sobre uma calculadora simples feita em java, acompanhe-me nesta jornada :)
