@@ -1,1 +1,1 @@
-Olá! meu nome é Emanuel, este projeto é sobre uma calculadora simples feita em java, acompanhe-me nesta jornada :)
+Olá, eu sou Emanuel∴ esse é um projeto de uma calculadora simples em java, acompanhe-me nessa jornada :)
